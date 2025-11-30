@@ -1,4 +1,9 @@
+# TD Reinforcement Learning
 
+Ce dépôt contient différents TDs sur l'apprentissage par renforcement :
+- TD1 : Policy Iteration sur une grille
+- TD2 : Q-learning sur Taxi-v3
+- 
 # Q-learning sur Taxi-v3
 
 Ce projet implémente l'algorithme de Q-learning sur l'environnement Taxi-v3 de Gymnasium.
